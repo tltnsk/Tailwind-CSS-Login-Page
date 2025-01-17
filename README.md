@@ -1,6 +1,5 @@
 # Login Page
 
----
 
 ## Overview
 This is a responsive Login or Sign-Up page created using HTML and Tailwind CSS. The design is clean, simple and modern.
